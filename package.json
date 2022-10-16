@@ -1,0 +1,25 @@
+{
+  "name": "sass-t1",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000s\u0000a\u0000s\u0000s\u0000-\u0000t\u00001\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gulp" : "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkgan02/sass-t1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kkgan02/sass-t1/issues"
+  },
+  "homepage": "https://github.com/kkgan02/sass-t1#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.55.0"
+  }
+}
